@@ -23,6 +23,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * "What does the knowledge source say about [specific query]?": To trigger the retrieval.
 
 ## Cybersecurity GPTs
+* [SubAI](https://github.com/shubham-s-pandey/SubAI): An advanced subdomain prediction and classification tool leverages artificial intelligence to generate tailored and comprehensive subdomains wordlists, outperforming the limitations of traditional tools.
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
 * [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. 
 * [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence.
