@@ -138,6 +138,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [Cyber Test & CareerPrep](https://chat.openai.com/g/g-BUZDQAUpi-cyber-test-careerprep): Helping you study for cybersecurity certifications and get the job you want!
 * [Cyber Pulse](https://chat.openai.com/g/g-DtAmIrhun-cyber-pulse): News and stocks savvy, article assistant.
 * [HackMeIfYouCan](https://chat.openai.com/g/g-1qm7bYbl1-hackmeifyoucan): Hack Me if you can - I can only talk to you about computer security, software security and LLM security.
+* [OTSecGPT](https://chatgpt.com/g/g-ILaTkur1j-otsecgpt): Designed to improve OT security, trained on standards such as IEC 62443 and the MITRE ATT&CK for ICS. 
 * [OT Security Buddy GPT](https://chat.openai.com/g/g-yhzcRZ3zu-ot-security-buddy-gpt): Your buddy to take expert advise on OT Security Topics.
 * [Secure Password Generator](https://chat.openai.com/g/g-Qhpc6FXJN-secure-password-generator): Creates secure, varied passwords and offers security tips.
 * [Secure Code Assistant](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant): I offer tested, secure coding solutions with no patience-testing.
