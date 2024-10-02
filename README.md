@@ -58,6 +58,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis): Drop in any files and I can help analyze and visualize your data.
 * [SpamGuard Tutor](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor): Spam detection expert and educator on spam prevention.
 * [Cloud-native threat modeling](https://sei.so/threat-modeling): Talk to an expert AI and find the cybersecurity threats that your company should be thinking about and what to do about them.
+* [CSA AICM Control Matrix Helper](https://chatgpt.com/g/g-kuGQRvjyt-aicm-gpt): Cloud Security Alliance (CSA) AICM Control Matrix assistant.
 * [Threat Modelling](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling): A GPT expert in conducting thorough threat modelling for system design and review.
 * [Threat Modeling Companion](https://chat.openai.com/g/g-qQceHnV7T-threat-modeling-companion): I am a threat modeling expert that can help you identify threats for any system that you provide.
 * [Threat Model Companion](https://chat.openai.com/g/g-8AM8fQ9wU-threat-model-companion): Assists in identifying and mitigating security threats.
